@@ -7,8 +7,8 @@ const contactLinks = [
   {
     icon: Mail,
     label: "Email",
-    href: "mailto:hello@constanzaesquivel.com",
-    text: "hello@constanzaesquivel.com",
+    href: "mailto:cesquiveln@icloud.com",
+    text: "cesquiveln@icloud.com",
   },
   {
     icon: Linkedin,
